@@ -36,6 +36,7 @@ You will find the complete documentation here : [ITSM-NG installation](https://w
     * [Whitelabel](https://github.com/itsmng/whitelabel/releases) : allow its users to modify the look of their itsm deployment, unifying their internal software's appearance.
     * [Edit traduction](https://github.com/itsmng/edittraduction/releases) : edit traduction file directly in the web interface.
     * [Holidays](https://github.com/itsmng/holidays/releases) : set holidays from over 40 countries.
+    * [Split dropdown](https://github.com/itsmng/splitdropdown/releases) : split a dropdown into multiple dropdowns based on the level of splitting.
     * GLPI plugin compatibilities (up to version 9.5.7)
 
 ## Features
@@ -50,9 +51,10 @@ ITSM-NG provide a lot of differents feature in order to help you manage your IT 
 Recently added :
 
 * [OpenID Connect](https://wiki.itsm-ng.org/oidc/) : allows clients to verify the identity of an end user based on the authentication performed by an authorization server.
-* Accessibility (in development) : 
+* Accessibility : 
     * Keyboard shortcut
     * Special font for dyslexia
+    * Zoom
 
 ![ITSM-NG preview](https://www.itsm-ng.org/pics/itsmng-preview.png)
 
