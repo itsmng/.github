@@ -32,6 +32,7 @@ You will find the complete documentation here : [ITSM-NG installation](https://w
 ## Third party tools
 
 * [Android application](https://github.com/itsmng/tech-android-app/releases) : this application allow to create and change ITSM-NG tickets from your organisation.
+* [Grafana template](https://github.com/itsmng/grafana-template) : we provide a default template which can be used in order to provide an ITSM-NG reporting in Grafana.
 * Various plugin catalog :
     * [Whitelabel](https://github.com/itsmng/whitelabel/releases) : allow its users to modify the look of their itsm deployment, unifying their internal software's appearance.
     * [Edit traduction](https://github.com/itsmng/edittraduction/releases) : edit traduction file directly in the web interface.
@@ -50,11 +51,12 @@ ITSM-NG provide a lot of differents feature in order to help you manage your IT 
 
 Recently added :
 
-* [OpenID Connect](https://wiki.itsm-ng.org/oidc/) : allows clients to verify the identity of an end user based on the authentication performed by an authorization server.
-* Accessibility : 
+* [OpenID Connect](https://wiki.itsm-ng.org/features/oidc/) : allows clients to verify the identity of an end user based on the authentication performed by an authorization server.
+* [Accessibility](https://wiki.itsm-ng.org/features/accessibility/) : 
     * Keyboard shortcut
     * Special font for dyslexia
     * Zoom
+* [Chat notification](https://wiki.itsm-ng.org/features/chat-notification/) : allows you to send chat notification from ITSM-NG to your chat application.
 
 ![ITSM-NG preview](https://www.itsm-ng.org/pics/itsmng-preview.png)
 
