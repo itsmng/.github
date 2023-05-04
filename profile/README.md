@@ -14,6 +14,7 @@ We propose three installation methods :
 * [From source](https://wiki.itsm-ng.org/install/)
 * [With docker](https://wiki.itsm-ng.org/docker-install/)
 * [With repository](https://wiki.itsm-ng.org/repo-install/) (RPM/DEB)
+* [With LXC template](https://wiki.itsm-ng.org/lxc-install/)
 
 To allow the installation of ITSM-NG, it is necessary to have a Linux (recommended) or Windows server with the following services installed and configured :
 
@@ -38,6 +39,8 @@ You will find the complete documentation here : [ITSM-NG installation](https://w
     * [Edit traduction](https://github.com/itsmng/edittraduction/releases) : edit traduction file directly in the web interface.
     * [Holidays](https://github.com/itsmng/holidays/releases) : set holidays from over 40 countries.
     * [Split dropdown](https://github.com/itsmng/splitdropdown/releases) : split a dropdown into multiple dropdowns based on the level of splitting.
+    * [Stock management](https://github.com/itsmng/stockmanagement/releases) : allows user to configure an alert threshold for a type of material or for a manufacturer/model depending on a status.
+    * [OCS Inventory NG](https://github.com/itsmng/ocsinventoryng/releases) : connector between OCS Inventory software and ITSM-NG.
     * GLPI plugin compatibilities (up to version 9.5.7)
 
 ## Features
