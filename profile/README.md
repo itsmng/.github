@@ -41,6 +41,7 @@ You will find the complete documentation here : [ITSM-NG installation](https://w
     * [Split dropdown](https://github.com/itsmng/splitdropdown/releases) : split a dropdown into multiple dropdowns based on the level of splitting.
     * [Stock management](https://github.com/itsmng/stockmanagement/releases) : allows user to configure an alert threshold for a type of material or for a manufacturer/model depending on a status.
     * [OCS Inventory NG](https://github.com/itsmng/ocsinventoryng/releases) : connector between OCS Inventory software and ITSM-NG.
+    * [GDPR compliance](https://github.com/itsmng/gdprcompliance/releases) : manage GDPR compliancy for ITSM-NG users.
     * GLPI plugin compatibilities (up to version 9.5.7)
 
 ## Features
