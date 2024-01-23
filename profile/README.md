@@ -11,10 +11,11 @@ ITSM-NG is a GLPI fork with the objective of offering a strong community compone
 
 We propose three installation methods :
 
-* [From source](https://wiki.itsm-ng.org/install/)
-* [With docker](https://wiki.itsm-ng.org/docker-install/)
-* [With repository](https://wiki.itsm-ng.org/repo-install/) (RPM/DEB)
-* [With LXC template](https://wiki.itsm-ng.org/lxc-install/)
+* [From source](https://wiki.itsm-ng.org/en/Installation/Classique)
+* [With docker](https://wiki.itsm-ng.org/en/Installation/Docker)
+* [With Deb repository](https://wiki.itsm-ng.org/fr/Installation/DEB)
+* [With RPM repository](https://wiki.itsm-ng.org/fr/Installation/RPM)
+* [With LXC template](https://wiki.itsm-ng.org/en/Installation/LXC)
 
 To allow the installation of ITSM-NG, it is necessary to have a Linux (recommended) or Windows server with the following services installed and configured :
 
@@ -28,7 +29,7 @@ Download [the latest release](https://github.com/itsmng/itsm-ng/releases), uncom
 
 Follow the installation steps and enjoy ITSM-NG !
 
-You will find the complete documentation here : [ITSM-NG installation](https://wiki.itsm-ng.org/install/)
+You will find the complete documentation here : [ITSM-NG installation](https://wiki.itsm-ng.org/en/Installation/Classique/)
 
 ## Third party tools
 
@@ -55,12 +56,12 @@ ITSM-NG provide a lot of differents feature in order to help you manage your IT 
 
 Recently added :
 
-* [OpenID Connect](https://wiki.itsm-ng.org/features/oidc/) : allows clients to verify the identity of an end user based on the authentication performed by an authorization server.
-* [Accessibility](https://wiki.itsm-ng.org/features/accessibility/) : 
+* [OpenID Connect](https://wiki.itsm-ng.org/en/Features/oidc) : allows clients to verify the identity of an end user based on the authentication performed by an authorization server.
+* [Accessibility](https://wiki.itsm-ng.org/en/Features/accessibility) : 
     * Keyboard shortcut
     * Special font for dyslexia
     * Zoom
-* [Chat notification](https://wiki.itsm-ng.org/features/chat-notification/) : allows you to send chat notification from ITSM-NG to your chat application.
+* [Chat notification](https://wiki.itsm-ng.org/en/Features/chat-notification) : allows you to send chat notification from ITSM-NG to your chat application.
 
 ![ITSM-NG preview](https://www.itsm-ng.org/pics/itsmng-preview.png)
 
